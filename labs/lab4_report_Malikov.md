@@ -2,11 +2,11 @@ University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)  
 Course: Cloud platforms as the basis of technology entrepreneurship  
 Year: 2025/2026  
-Group: [Твоя группа]  
-Author: [Твое ФИО]  
+Group: 4225
+Author: Маликов Артем
 Lab: Lab4  
-Date of create: [Текущая дата]  
-Date of finished: 
+Date of create: 08.05.2026
+Date of finished: 08.05.2026
 
 # Лабораторная работа №4  
 **Разработка инфраструктуры MVP AI-приложения**
