@@ -180,7 +180,8 @@ Date of finished: 08.05.2026
 
 # Архитектура
 
-*(Вставь сюда скриншот своей архитектурной схемы)*
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c379b3ff-0275-4777-8bb1-872d4c07e050" />
+
 
 # Вывод  
 
